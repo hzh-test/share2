@@ -7,7 +7,7 @@ func Sh2() {
 	fmt.Println(share.Ss)
 	share.Sh()
 
-    fmt.Println("share2 v1.0.1")
+    fmt.Println("share2 v1.0.2")
     fmt.Println("111")
 }
 
